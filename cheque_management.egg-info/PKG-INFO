@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: cheque_management
+Version: 0.0.1
+Summary: For managing receivable and payable cheques
+Author: Direction
+Author-email: info@egdirection.com
+Requires-Dist: frappe
+Requires-Dist: erpnext
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
